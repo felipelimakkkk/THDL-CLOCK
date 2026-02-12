@@ -1,7 +1,7 @@
 # THDL CLOCK - Monitor Ambiental com Relógio OLED
 
 Este projeto consiste em uma estação de monitoramento de ambiente utilizando um ESP32. O sistema alterna entre um relógio digital e a leitura em tempo real de sensores de temperatura, umidade, luminosidade e ruído, contando com um menu para ajuste de horas.
-
+O software usado para as simulações foi o Wokwi
 ## Hardware Necessário
 * **Microcontrolador:** ESP32 (MicroPython instalado)
 * **Display:** OLED SSD1306 (128x64)
